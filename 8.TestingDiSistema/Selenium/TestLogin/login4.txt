@@ -1,0 +1,7 @@
+    [info] Playing test case Untitled
+    [info] Executing: |open | /Autoshop/index.jsp | |
+    [info] Executing: |type | id=user | Gcaloia94@gmail.com |
+    [info] Executing: |type | id=p | gennariino94 |
+    [info] Executing: |clickAndWait | css=button[type="submit"] | |
+   [info] Executing: |assertAlert | password non valida | |
+    [info] Test case passed 

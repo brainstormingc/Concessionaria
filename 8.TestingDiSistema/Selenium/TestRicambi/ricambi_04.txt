@@ -1,0 +1,10 @@
+    [info] Playing test case Untitled
+    [info] Executing: |open | /Autoshop/InsertRicambio.jsp | |
+    [info] Executing: |type | id=marcaa | Fiat |
+    [info] Executing: |type | id=tipoo | Freno |
+    [info] Executing: |type | id=qntt | 10 |
+    [info] Executing: |type | id=p | 150,0 |
+    [info] Executing: |click | css=button.signupbtn | |
+    [info] Executing: |assertAlert | Prezzo non valido| |
+
+    [info] Test case passed 

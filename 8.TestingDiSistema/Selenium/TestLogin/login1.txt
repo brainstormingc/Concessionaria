@@ -1,0 +1,8 @@
+    [info] Playing test case TC_Login_01
+    [info] Executing: |open | /Autoshop/index.jsp | |
+    [info] Executing: |type | id=user | G |
+    [info] Executing: |type | id=user | Gcaloia94@gmail.com |
+    [info] Executing: |type | id=p | Gennarino94 |
+    [info] Executing: |clickAndWait | css=button[type="submit"] | |
+    [info] Executing: |assertAlert | Log con successo | |
+    [info] Test case passed 

@@ -1,0 +1,10 @@
+    [info] Playing test case Untitled
+    [info] Executing: |open | /Autoshop/insertDipendente.jsp | |
+    [info] Executing: |type | id=name | Maurizio |
+    [info] Executing: |type | id=surname | Tucci |
+    [info] Executing: |type | id=user | M.tucci |
+    [info] Executing: |type | id=pass | tuccii94 |
+    [info] Executing: |type | id=pass2 | tuccii94 |
+    [info] Executing: |click | css=button.signupbtn | |
+    [info] Executing: |assertAlert | Email non conforme| |
+    [info] Test case passed 
